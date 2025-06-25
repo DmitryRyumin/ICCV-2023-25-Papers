@@ -172,3 +172,15 @@ dmypy.json
 /*.sh
 /*.py
 local_json_data/
+
+# Claude
+.claude/*
+
+# Poetry
+# Do not ignore poetry.lock - it should be committed
+dist/
+.pytest_cache/
+htmlcov/
+coverage.xml
+.coverage
+.coverage.*
