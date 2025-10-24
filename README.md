@@ -283,7 +283,95 @@ ICCV 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/multi-modal-learning.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
             </td>
-            <td colspan="4" rowspan="1" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="12" align="center"><i>Will soon be added</i></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/structure-and-motion.md">Structure and Motion</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/structure-and-motion.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/efficient-learning.md">Efficient Learning</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/efficient-learning.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/view-synthesis-and-scene-reconstruction.md">View Synthesis and Scene Reconstruction</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/view-synthesis-and-scene-reconstruction.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/foundation-models-and-representation-learning.md">Foundation Models and Representation Learning</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/foundation-models-and-representation-learning.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/human-modeling.md">Human Modeling</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/human-modeling.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/pose-understanding.md">Pose Understanding</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/pose-understanding.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/vision-and-graphics.md">Vision + Graphics</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/vision-and-graphics.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/applications-and-evaluation.md">Applications and Evaluation</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/applications-and-evaluation.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/content-generation.md">Content Generation</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/content-generation.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/physical-scene-perception.md">Physical Scene Perception</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/physical-scene-perception.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/segmentation-and-grouping.md">Segmentation and Grouping</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/segmentation-and-grouping.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
+            </td>
         </tr>
     </tbody>
 </table>
