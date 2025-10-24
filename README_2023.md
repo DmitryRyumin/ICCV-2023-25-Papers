@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=115&color=2C2A2E&text=ICCV-2023-Papers&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=36&fontColor=FFFFFF&animation=scaleIn&fontAlignY=18" alt="ICCV-2023-Papers">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=115&color=2C2A2E&text=ICCV-2023-25-Papers&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=36&fontColor=FFFFFF&animation=scaleIn&fontAlignY=18" alt="ICCV-2023-Papers">
 </p>
 
 <table align="center">
@@ -12,7 +12,7 @@
       <a href="https://iccv2023.thecvf.com">
         <img src="http://img.shields.io/badge/ICCV-2023-7395C5.svg" alt="Conference">
       </a>
-      <img src="https://img.shields.io/badge/version-v1.0.0-rc0" alt="Version">
+      <img src="https://img.shields.io/badge/version-v2024.09.01-rc0" alt="Version">
       <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/LICENSE">
         <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
       </a>
@@ -172,7 +172,7 @@ ICCV 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
         <td>ICCV</td>
         <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICCV-2023-25-Papers?style=flat" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
         <td align="center"><img src="https://img.shields.io/badge/Not%20Scheduled-CC5540" alt=""/></td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICCV-2023-25-Papers?style=flat" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICCV-2023-25-Papers?style=flat" alt="" /></a></td>
     </tr>
     <tr>
         <td>ECCV</td>

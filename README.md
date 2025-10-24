@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=115&color=2C2A2E&text=ICCV-2023-Papers&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=36&fontColor=FFFFFF&animation=scaleIn&fontAlignY=18" alt="ICCV-2023-Papers">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=115&color=2C2A2E&text=ICCV-2023-25-Papers&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=36&fontColor=FFFFFF&animation=scaleIn&fontAlignY=18" alt="ICCV-2023-Papers">
 </p>
 
 <table align="center">
@@ -12,7 +12,7 @@
       <a href="https://iccv2023.thecvf.com">
         <img src="http://img.shields.io/badge/ICCV-2023-7395C5.svg" alt="Conference">
       </a>
-      <img src="https://img.shields.io/badge/version-v1.0.0-rc0" alt="Version">
+      <img src="https://img.shields.io/badge/version-v2025.10.24-rc0" alt="Version">
       <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/LICENSE">
         <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
       </a>
@@ -93,18 +93,9 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
+      <!-- 0/2702 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/100?successColor=006600" alt="" />
-        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Workshops</strong></td>
-    <td>
-      <!-- 127/497 -->
-      <div style="float:left;">
-        <img src="https://geps.dev/progress/26?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/0?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -113,22 +104,18 @@
 
 ---
 
-ICCV 2023 Papers: Explore a comprehensive collection of cutting-edge research papers presented at [*ICCV 2023*](https://iccv2023.thecvf.com/), the premier computer vision conference. Keep up to date with the latest advances in computer vision and deep learning. Code implementations included. :star: the repository for the development of visual intelligence!
+ICCV 2025 Papers: Explore a comprehensive collection of cutting-edge research papers presented at [*ICCV 2025*](https://iccv.thecvf.com/virtual/2025/index.html), the premier computer vision conference. Keep up to date with the latest advances in computer vision and deep learning. Code implementations included. :star: the repository for the development of visual intelligence!
 
 <p align="center">
-    <a href="https://iccv2023.thecvf.com/" target="_blank">
-        <img width="600" src="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/images/ICCV2023-banner.jpg" alt="ICCV 2023">
+    <a href="https://iccv.thecvf.com/virtual/2025/index.html" target="_blank">
+        <img width="600" src="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/images/ICCV2025-banner.png" alt="ICCV 2025">
     </a>
 </p>
-
-![Total Papers](https://img.shields.io/badge/Total%20Papers-2156-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-1660%20(76.99%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1418%20(65.77%25)%20*-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-276%20(12.80%25)%20*-FF0000)
-
-> :point_right: `*` This count includes repositories on GitHub, GitLab, Hugging Face, and distributions on PyPI, while excluding Web Page or GitHub Page links.
 
 ---
 
 > [!TIP]
-> [*The online version of the ICCV 2023 Conference Programme*](https://iccv2023.thecvf.com/main.conference.program-107.php), comprises a list of all accepted full papers, their presentation order, as well as the designated presentation times.
+> [*The online version of the ICCV 2025 Conference Programme*](https://iccv.thecvf.com/virtual/2025/calendar), comprises a list of all accepted full papers, their presentation order, as well as the designated presentation times.
 
 ---
 
@@ -172,7 +159,7 @@ ICCV 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
         <td>ICCV</td>
         <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICCV-2023-25-Papers?style=flat" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
         <td align="center"><img src="https://img.shields.io/badge/Not%20Scheduled-CC5540" alt=""/></td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICCV-2023-25-Papers?style=flat" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICCV-2023-25-Papers?style=flat" alt="" /></a></td>
     </tr>
     <tr>
         <td>ECCV</td>
