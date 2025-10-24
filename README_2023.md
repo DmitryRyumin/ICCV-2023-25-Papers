@@ -262,7 +262,7 @@ ICCV 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
 <br />
 
 > [!NOTE]
-> Contributions to improve the completeness of this list are greatly appreciated. If you come across any overlooked papers, please **feel free to [*create pull requests*](https://github.com/DmitryRyumin/ICCV-2023-Papers/pulls), [*open issues*](https://github.com/DmitryRyumin/ICCV-2023-Papers/issues) or contact me via [*email*](mailto:neweraairesearch@gmail.com)**. Your participation is crucial to making this repository even better.
+> Contributions to improve the completeness of this list are greatly appreciated. If you come across any overlooked papers, please **feel free to [*create pull requests*](https://github.com/DmitryRyumin/ICCV-2023-25-Papers/pulls), [*open issues*](https://github.com/DmitryRyumin/ICCV-2023-25-Papers/issues) or contact me via [*email*](mailto:neweraairesearch@gmail.com)**. Your participation is crucial to making this repository even better.
 
 ---
 

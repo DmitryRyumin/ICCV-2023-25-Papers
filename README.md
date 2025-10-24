@@ -253,6 +253,14 @@ ICCV 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
 
 ---
 
+## Papers-2025 <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/ai.svg" width="30" alt="" />
+
+<a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
+  <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
+</a>
+
+---
+
 ## [Papers-2023](https://openaccess.thecvf.com/ICCV2023?day=all) <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/ai.svg" width="30" alt="" />
 
 <a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
