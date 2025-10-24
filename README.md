@@ -241,26 +241,22 @@ ICCV 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
 
 ## Contributors
 
-<a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/graphs/contributors">
-  <img src="http://contributors.nn.ci/api?repo=DmitryRyumin/ICCV-2023-Papers" alt="" />
+<a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/graphs/contributors">
+  <img src="http://contributors.nn.ci/api?repo=DmitryRyumin/ICCV-2023-25-Papers" alt="" />
 </a>
 
 <br />
 <br />
 
 > [!NOTE]
-> Contributions to improve the completeness of this list are greatly appreciated. If you come across any overlooked papers, please **feel free to [*create pull requests*](https://github.com/DmitryRyumin/ICCV-2023-Papers/pulls), [*open issues*](https://github.com/DmitryRyumin/ICCV-2023-Papers/issues) or contact me via [*email*](mailto:neweraairesearch@gmail.com)**. Your participation is crucial to making this repository even better.
+> Contributions to improve the completeness of this list are greatly appreciated. If you come across any overlooked papers, please **feel free to [*create pull requests*](https://github.com/DmitryRyumin/ICCV-2023-25-Papers/pulls), [*open issues*](https://github.com/DmitryRyumin/ICCV-2023-25-Papers/issues) or contact me via [*email*](mailto:neweraairesearch@gmail.com)**. Your participation is crucial to making this repository even better.
 
 ---
 
-## [Papers](https://openaccess.thecvf.com/ICCV2023?day=all) <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/ai.svg" width="30" alt="" />
+## [Papers-2023](https://openaccess.thecvf.com/ICCV2023?day=all) <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/ai.svg" width="30" alt="" />
 
 <a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
   <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
-</a>
-
-<a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers">
-  <img src="http://img.shields.io/badge/ICCV-2025-0073AE.svg" alt="Conference">
 </a>
 
 <table>
