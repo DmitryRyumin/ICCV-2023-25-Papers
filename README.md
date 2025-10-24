@@ -10,7 +10,7 @@
         <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
       </a>
       <a href="https://iccv2023.thecvf.com">
-        <img src="http://img.shields.io/badge/ICCV-2023-7395C5.svg" alt="Conference">
+        <img src="http://img.shields.io/badge/ICCV-2025-7395C5.svg" alt="Conference">
       </a>
       <img src="https://img.shields.io/badge/version-v2025.10.24-rc0" alt="Version">
       <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/LICENSE">
@@ -283,7 +283,15 @@ ICCV 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/multi-modal-learning.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
             </td>
-            <td colspan="4" rowspan="12" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/multi-modal-learning.md"><img src="https://img.shields.io/badge/5-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/multi-modal-learning.md"><img src="https://img.shields.io/badge/2-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/multi-modal-learning.md"><img src="https://img.shields.io/badge/2-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -292,6 +300,7 @@ ICCV 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/structure-and-motion.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
             </td>
+            <td colspan="4" rowspan="11" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
