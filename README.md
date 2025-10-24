@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=115&color=2C2A2E&text=ICCV-2023-25-Papers&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=36&fontColor=FFFFFF&animation=scaleIn&fontAlignY=18" alt="ICCV-2023-Papers">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=115&color=2C2A2E&text=ICCV-2025-Papers&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=36&fontColor=FFFFFF&animation=scaleIn&fontAlignY=18" alt="ICCV-2023-Papers">
 </p>
 
 <table align="center">
