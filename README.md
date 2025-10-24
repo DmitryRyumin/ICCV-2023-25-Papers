@@ -373,6 +373,58 @@ ICCV 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/segmentation-and-grouping.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
             </td>
         </tr>
+        <tr>
+            <td colspan="5" align="left"><i>Posters</i></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/session-1.md">Session 1</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/session-1.md"><img src="https://img.shields.io/badge/460-42BA16" alt="Papers"></a>
+            </td>
+            <td colspan="4" rowspan="6" align="center"><i>Will soon be added</i></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/session-2.md">Session 2</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/session-2.md"><img src="https://img.shields.io/badge/453-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/session-3.md">Session 3</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/session-3.md"><img src="https://img.shields.io/badge/450-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/session-4.md">Session 4</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/session-4.md"><img src="https://img.shields.io/badge/458-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/session-5.md">Session 5</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/session-5.md"><img src="https://img.shields.io/badge/452-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/session-6.md">Session 6</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/session-6.md"><img src="https://img.shields.io/badge/426-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
