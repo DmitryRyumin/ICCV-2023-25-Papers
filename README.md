@@ -259,6 +259,35 @@ ICCV 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
   <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
 </a>
 
+<table>
+    <thead>
+        <tr>
+            <th scope="col">Section</th>
+            <th scope="col">Papers</th>
+            <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="45" alt="" /></th>
+            <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /></th>
+            <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/video.svg" width="27" alt="" /></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="5" align="center"><i>Main</i></td>
+        </tr>
+        <tr>
+            <td colspan="5" align="left"><i>Orals</i></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/multi-modal-learning.md">Multi-Modal Learning</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/multi-modal-learning.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
+            </td>
+            <td colspan="4" rowspan="1" align="center"><i>Will soon be added</i></td>
+        </tr>
+    </tbody>
+</table>
+
 ---
 
 ## [Papers-2023](https://openaccess.thecvf.com/ICCV2023?day=all) <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/ai.svg" width="30" alt="" />
