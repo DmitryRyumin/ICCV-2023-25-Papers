@@ -9,6 +9,14 @@
             </a>
         </td>
     </tr>
+    <tr>
+        <td><strong>Previous Collections</strong></td>
+        <td>
+            <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/README_2023.md">
+                <img src="http://img.shields.io/badge/ICCV-2023-0073AE.svg" alt="Conference">
+            </a>
+        </td>
+    </tr>
 </table>
 
 <div align="center">
