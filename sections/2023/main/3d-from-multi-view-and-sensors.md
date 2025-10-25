@@ -12,7 +12,7 @@
 </table>
 
 <div align="center">
-    <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/">
+    <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/README_2023.md">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" alt="" />
     </a>
     <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/2023/main/adversarial-attack-and-defense.md">
