@@ -380,10 +380,10 @@ ICCV 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/pose-understanding.md">Pose Understanding</a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/3d-pose-understanding.md">3D Pose Understanding</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/pose-understanding.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/3d-pose-understanding.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
             </td>
             <td colspan="4" rowspan="6" align="center"><i>Will soon be added</i></td>
         </tr>
