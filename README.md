@@ -368,7 +368,15 @@ ICCV 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/human-modeling.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
             </td>
-            <td colspan="4" rowspan="7" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/human-modeling.md"><img src="https://img.shields.io/badge/5-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/human-modeling.md"><img src="https://img.shields.io/badge/4-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/human-modeling.md"><img src="https://img.shields.io/badge/4-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -377,6 +385,7 @@ ICCV 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers/blob/main/sections/2025/main/pose-understanding.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
             </td>
+            <td colspan="4" rowspan="6" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
