@@ -12,7 +12,7 @@
       <a href="https://iccv2023.thecvf.com">
         <img src="http://img.shields.io/badge/ICCV-2025-7395C5.svg" alt="Conference">
       </a>
-      <img src="https://img.shields.io/badge/version-v2025.10.25-rc0" alt="Version">
+      <img src="https://img.shields.io/badge/version-v2025.10.27-rc0" alt="Version">
       <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/LICENSE">
         <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
       </a>
